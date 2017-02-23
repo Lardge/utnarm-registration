@@ -37,6 +37,9 @@ define('DB_CHARSET', 'utf8mb4');
 /** Kollationeringstyp för databasen. Ändra inte om du är osäker. */
 define('DB_COLLATE', '');
 
+define('IMPORT_DEBUG', true);
+
+
 /**#@+
  * Unika autentiseringsnycklar och salter.
  *
